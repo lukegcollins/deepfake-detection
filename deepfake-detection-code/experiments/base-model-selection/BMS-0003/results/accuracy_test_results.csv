@@ -1,0 +1,2 @@
+Base Model,duration,test_accuracy,test_precision,test_recall,test_loss,train_accuracy,train_precision,train_recall,train_auc,train_loss,val_accuracy,val_precision,val_recall,val_auc,val_loss
+InceptionV3,5995.923,0.762,0.789,0.696,0.64,0.909,0.902,0.912,0.97,0.219,0.762,0.789,0.696,0.847,0.64

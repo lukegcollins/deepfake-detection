@@ -1,0 +1,2 @@
+Base Model,duration,test_accuracy,test_precision,test_recall,test_loss,train_accuracy,train_precision,train_recall,train_auc,train_loss,val_accuracy,val_precision,val_recall,val_auc,val_loss
+VGG16,15350.544,0.907,0.866,0.957,0.283,0.966,0.965,0.965,0.993,0.098,0.907,0.865,0.957,0.97,0.283

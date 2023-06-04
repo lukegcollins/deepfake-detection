@@ -1,0 +1,6 @@
+optimizer,test_accuracy,test_loss,train_accuracy,train_loss,val_accuracy,val_loss
+Adam,0.909,0.393,0.986,0.05,0.854,0.668
+Adagrad,0.909,3.555,0.993,3.231,0.857,3.811
+Nadam,0.907,0.507,0.992,0.03,0.852,0.847
+RMSprop,0.904,0.597,0.99,0.044,0.862,0.86
+SGD,0.86,3.328,0.935,3.062,0.795,3.518

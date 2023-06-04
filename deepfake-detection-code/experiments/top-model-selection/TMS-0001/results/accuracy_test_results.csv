@@ -1,0 +1,2 @@
+Base Model,duration,test_accuracy,test_precision,test_recall,test_loss,train_accuracy,train_precision,train_recall,train_auc,train_loss,val_accuracy,val_precision,val_recall,val_auc,val_loss
+Xception,6930.055,0.658,0.634,0.701,0.67,0.645,0.609,0.752,0.679,0.652,0.658,0.635,0.701,0.715,0.67

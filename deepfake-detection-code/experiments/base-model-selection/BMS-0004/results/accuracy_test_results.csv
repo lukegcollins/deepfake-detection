@@ -1,0 +1,2 @@
+Base Model,duration,test_accuracy,test_precision,test_recall,test_loss,train_accuracy,train_precision,train_recall,train_auc,train_loss,val_accuracy,val_precision,val_recall,val_auc,val_loss
+ResNet50,4605.545,0.848,0.84,0.848,0.436,0.946,0.943,0.945,0.986,0.146,0.848,0.841,0.848,0.924,0.435

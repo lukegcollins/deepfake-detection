@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../datasets"
+	},
+	{
+		"path": "../../../../media/luke/System Storage/Deepfake Dataset"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "deepfake-detection-v2"
+  }
+}
